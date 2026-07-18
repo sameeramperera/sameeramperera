@@ -1,6 +1,6 @@
 ### Software Engineer | Tech enthusiast | Lifelong learner | Problem solver
 
-More on [sameeramadushan.me](https://sameeramadushan.me)
+More on [sameeramperera.me](https://sameeramperera.me)
 
 ---
 
@@ -12,7 +12,7 @@ More on [sameeramadushan.me](https://sameeramadushan.me)
 * [Assembly 101: How Programs Speak to the Machine](https://sameeramadushan.me/posts/assembly-101-how-programs-speak-to-the-machine)
 <!-- blog ends -->
 
-More on [sameeramadushan.me/posts](https://sameeramadushan.me/posts)
+More on [sameeramperera.me/posts](https://sameeramperera.me/posts)
 
 ---
 
