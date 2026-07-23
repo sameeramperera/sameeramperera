@@ -2,7 +2,7 @@ import feedparser
 from datetime import datetime, timezone
 
 README_FILE = "README.md"
-RSS_FEED_URL = "https://sameeramadushan.me/rss.xml"
+RSS_FEED_URL = "https://sameeramperera.me/rss.xml"
 MAX_POSTS = 3
 
 feed = feedparser.parse(RSS_FEED_URL)
